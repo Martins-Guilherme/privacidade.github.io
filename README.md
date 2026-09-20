@@ -4,7 +4,7 @@
 
 Este Aviso de Privacidade para a Barbearia ("nós", "nos" ou "nosso"), descreve como e por que podemos acessar, coletar, armazenar, usar e/ou compartilhar ("processar") suas informações pessoais quando você usa nossos serviços ("Serviços"), incluindo quando você:
 
-* Visita nosso site em [https://martins-guilherme.github.io/privacidade.github.io/](https://martins-guilherme.github.io/privacidade.github.io/) ou qualquer site nosso que tenha links para este Aviso de Privacidade.
+* Visita nosso site em [https://barber-shop-git-main-martinsguilhermes-projects.vercel.app](https://barber-shop-git-main-martinsguilhermes-projects.vercel.app) ou qualquer site nosso que tenha links para este Aviso de Privacidade.
 * Envolve-se conosco de outras maneiras relacionadas, incluindo qualquer marketing ou eventos.
 
 **Perguntas ou preocupações?** Ler este Aviso de Privacidade irá ajudá-lo a entender seus direitos e escolhas de privacidade. Somos responsáveis por tomar decisões sobre como suas informações pessoais são processadas. Se você não concordar com nossas políticas e práticas, por favor, não use nossos Serviços. Se você ainda tiver alguma dúvida ou preocupação, entre em contato conosco pelo e-mail <guilhermeteixe3112@gmail.com>.
@@ -135,9 +135,8 @@ Podemos atualizar este Aviso de Privacidade de tempos em tempos. A versão atual
 
 Se você tiver dúvidas ou comentários sobre este aviso, você pode nos enviar um e-mail para <guilhermeteixei3112@gmail.com> ou entrar em contato conosco pelo correio:
 
-**Barbearia**  
-Rua 27 de março  
-Turismo, Rio Grande do Norte - 59584-000  
+**Barbearia**   
+Touros, Rio Grande do Norte - 59584-000  
 Brasil
 
 ---
